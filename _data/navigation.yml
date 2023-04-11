@@ -4,14 +4,14 @@ main:
     #url: /cv/
     url: /files/Resume.pdf
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/   
 
   - title: "Publications"
     url: /publications/
-  
- # - title: "Teaching"
- #   url: /teaching/   
+
+ # - title: "Portfolio"
+ #   url: /portfolio/
 
  # - title: "Talks"
  #   url: /talks/    
