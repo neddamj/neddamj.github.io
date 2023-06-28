@@ -10,12 +10,3 @@ location: "Kingston, Jamaica"
 
 Programming for Engineers 1 - Semester 1
 Object-Oriented Programming - Semester 2
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
