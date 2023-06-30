@@ -1,5 +1,5 @@
 ---
-title: "Object-Oriented Programming"
+title: "Object-Oriented Programming (Semester 2)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-2

@@ -1,5 +1,5 @@
 ---
-title: "Electrical Circuits"
+title: "Electrical Circuit (Spring 2023)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-4

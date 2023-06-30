@@ -1,5 +1,5 @@
 ---
-title: "Electronics"
+title: "Electronics (Fall 2022)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-3
