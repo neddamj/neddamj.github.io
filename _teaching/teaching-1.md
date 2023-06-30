@@ -1,13 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Programming for Engineers 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/teaching-1
 venue: "University of the West Indies, Engineering"
-date: September 2020 - May 2021
+date: 2020
 location: "Kingston, Jamaica"
 ---
-
-Programming for Engineers 1 - Semester 1
-
-Object-Oriented Programming - Semester 2

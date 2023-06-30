@@ -1,13 +1,9 @@
 ---
-title: "Teaching Assistant"
+title: "Object-Oriented Programming"
 collection: teaching
-type: "Undergraduate Course"
+type: "Teaching Assistant"
 permalink: /teaching/teaching-2
-venue: "Binghamton University, Electrical and Computer Engineering"
-date: August 2022 - May 2023
-location: "Binghamton, New York"
+venue: "University of the West Indies, Engineering"
+date: 2021
+location: "Kingston, Jamaica"
 ---
-
-Electronics - Semester 1
-
-Electrical Circuits - Semester 2
