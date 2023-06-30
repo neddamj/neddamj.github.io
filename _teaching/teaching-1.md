@@ -1,5 +1,5 @@
 ---
-title: "Programming for Engineers 1 (Semester 1)"
+title: "Programming for Engineers 1 (Fall 2020)"
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-1
