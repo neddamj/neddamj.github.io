@@ -14,4 +14,4 @@ At a high level, I am interested in machine learning and security. More specific
 
 I am affiliated with the [Jamaica Artificial Intelligence Association](https://jaia.org.jm/), where I help to lead the research efforts.
 
-Prior to my graduate studies I was a Wireless Network Engineer at Huawei Technologies, where I worked towards the optimization, expansion and deployment of long range transmission systems for telecommunications networks.
+Prior to my graduate studies I was a Wireless Network Engineer at Huawei Technologies, where I worked on the optimization, deployment of long range transmission systems for telecommunications networks.
