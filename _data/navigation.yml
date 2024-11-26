@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/Resume.pdf
+    url: /files/Jordan Madden - Technical Resume.pdf
 
   - title: "Teaching"
     url: /teaching/   
