@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Welcome to my corner of the internet.
 
-I am a PhD student at Binghamton University under the supervision of Professor Xiaohu (Edward) Li. At a high level I am interested in robust and reliable machine learning. More specifically I am interested in studying the behavior of machine learning models and systems from an adversarial perspective in order to understand and mitigate security and privacy risks posed by these systems.
+I am a PhD student at Binghamton University under the supervision of Professor Xiaohua (Edward) Li. At a high level I am interested in robust and reliable machine learning. More specifically I am interested in studying the behavior of machine learning models and systems from an adversarial perspective in order to understand and mitigate security and privacy risks posed by these systems.
 
 I am affiliated with the [Jamaica Artificial Intelligence Association](https://jaia.org.jm/), where I help to lead the research efforts.
 
