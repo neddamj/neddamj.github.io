@@ -86,7 +86,7 @@ author:
   location         : "New York, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=fLO_Ol8AAAAJ&hl=en&authuser=1"
   email            : "jordanmadden285@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jordan-madden-952797173/"
+  linkedin         : "jordanmadden/"
   orcid            : 
   pinterest        :
   soundcloud       :

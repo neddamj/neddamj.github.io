@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me!"
+title: "Jordan Madden"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jordan Madden, a PhD student in Electrical and Computer Engineering at Binghamton University, under the guidance of Professor Xiaohua Li. I earned my master's degree from Binghamton University in Spring 2024, and I graduated with a Bachelor's degree in Electronics Engineering from the University of the West Indies, Mona in 2021.
+Hello! Welcome to my corner of the internet.
 
-At a high level, I am interested in robust and secure machine learning. More specifically I am interested in studying the behavior of machine learning systems from an adversarial perspective in order to understand and mitigate security and privacy risks posed by these systems.
+I am a PhD student at Binghamton University under the supervision of Professor Xiaohu (Edward) Li. At a high level I am interested in robust and reliable machine learning. More specifically I am interested in studying the behavior of machine learning models and systems from an adversarial perspective in order to understand and mitigate security and privacy risks posed by these systems.
 
 I am affiliated with the [Jamaica Artificial Intelligence Association](https://jaia.org.jm/), where I help to lead the research efforts.
 
-Prior to my graduate studies I was a Wireless Network Engineer at Huawei Technologies, where I worked on the optimization and deployment of long range transmission systems for telecommunications networks.
+## News
+October 2024\: Our paper [Robustness of Practical Perceptual Hashing Algorithms to Hash-Evasion and Hash-Inversion Attacks](https://arxiv.org/pdf/2406.00918) has been accepted at [The 3nd Workshop on New Frontiers in Adversarial Machine Learning@NeurIPS’24](https://advml-frontier.github.io/)

@@ -2,13 +2,13 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: /files/Jordan Madden - Technical Resume.pdf
+    url: /files/Jordan Madden - PhD Resume.pdf
 
   - title: "Teaching"
     url: /teaching/   
 
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=fLO_Ol8AAAAJ&sortby=pubdate&authuser=1
 
  # - title: "Portfolio"
  #   url: /portfolio/
