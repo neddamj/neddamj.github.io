@@ -15,4 +15,4 @@ I am a PhD student at Binghamton University under the supervision of Professor X
 I am affiliated with the [Jamaica Artificial Intelligence Association](https://jaia.org.jm/), where I help to lead the research efforts.
 
 ## News
-October 2024\: Our paper [Robustness of Practical Perceptual Hashing Algorithms to Hash-Evasion and Hash-Inversion Attacks](https://arxiv.org/pdf/2406.00918) has been accepted at [The 3nd Workshop on New Frontiers in Adversarial Machine Learning@NeurIPS’24](https://advml-frontier.github.io/)
+October 2024\: Our paper [Robustness of Practical Perceptual Hashing Algorithms to Hash-Evasion and Hash-Inversion Attacks](https://arxiv.org/pdf/2406.00918) has been accepted at [The 3rd Workshop on New Frontiers in Adversarial Machine Learning@NeurIPS’24](https://advml-frontier.github.io/)
